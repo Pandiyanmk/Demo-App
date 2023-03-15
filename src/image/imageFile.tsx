@@ -1,0 +1,10 @@
+export const IDCARD = require('./idd.png');
+export const ADDRESS = require('./address.png');
+export const AGE = require('./age.png');
+export const DOB = require('./dob.png');
+export const GENDER = require('./gender.png');
+export const MAIL = require('./mail.png');
+export const MOBILE = require('./mobile.png');
+export const NAME = require('./name.png');
+export const NEXT = require('./next.png');
+export const PASSWORD = require('./passwords.png'); 
